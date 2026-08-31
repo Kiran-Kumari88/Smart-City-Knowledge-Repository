@@ -1,0 +1,26 @@
+{
+  "SmartCityManagement": {
+    "Traffic": {
+      "Roads": [],
+      "TrafficDensity": [],
+      "TrafficSignals": []
+    },
+    "PublicTransport": {
+      "Buses": [],
+      "Routes": []
+    },
+    "WasteManagement": {
+      "GarbageBins": [],
+      "CollectionStatus": []
+    },
+    "Hospitals": {
+      "Capacity": [],
+      "AvailableBeds": []
+    },
+    "EmergencyServices": {
+      "Ambulances": [],
+      "PoliceUnits": [],
+      "FireTrucks": []
+    }
+  }
+}
